@@ -80,7 +80,7 @@ class Nav extends Component {
                             <React.Fragment>
                                 <Link to="/add_crop">
                                     <li className="nav_links">
-                                        <p className="nav_text" >Upload Crops</p>
+                                        <p className="nav_text" >Upload Medicines</p>
                                     </li>
                                 </Link>
                                 <Link to="/orders">
